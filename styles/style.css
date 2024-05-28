@@ -98,9 +98,9 @@
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .header {
-    max-width: 375px;
+    max-width: 576px;
     padding-top: 75px;
     padding-left: 39px;
     padding-right: 39px;
@@ -367,7 +367,7 @@
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .servises {
     margin-top: 160px;
 
@@ -375,7 +375,7 @@
     padding-top: 24px;
     padding-bottom: 24px;
     height: 725px;
-    margin-left: 20px;
+    margin-left: 90px;
     border-radius: 20px;
     box-shadow: 0px 4px 20px 0px #00000026;
   }
@@ -634,12 +634,12 @@
     font-size: 16px;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .whyus {
     margin-top: -140px;
     max-width: 375px;
     padding-left: 15px;
-    margin-left: 0;
+    margin-left: 60px;
     position: relative;
   }
   .whyus__container {
@@ -954,12 +954,12 @@
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .ourworks {
     margin-top: 60px;
     max-width: 375px;
     padding-left: 15px;
-    margin-left: 30px;
+    margin-left: 90px;
   }
   .ourworks__container {
     max-width: 345px;
@@ -1083,13 +1083,13 @@
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .clients {
-    margin-left: -90px;
-    margin-top: 120px;
+    margin-left: -60px;
+    margin-top: -60px;
   }
   .clients__container {
-    max-width: 375px;
+    max-width: 376px;
     height: 780px;
     display: flex;
     flex-direction: column;
@@ -1319,10 +1319,10 @@ span {
     font-size: 16px;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .steps__container {
     max-width: 345px;
-    margin-left: -30px;
+    margin-left: 0px;
     margin-top: -230px;
   }
 
@@ -1818,10 +1818,10 @@ font-size: 14px;
 
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   .clientslogo__container{
-    width: 344px;
-    margin-left: -40px;
+    width: 345px;
+    margin-left: -30px;
     margin-top: -24px;
   }
   
