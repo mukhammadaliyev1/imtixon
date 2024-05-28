@@ -375,7 +375,7 @@
     padding-top: 24px;
     padding-bottom: 24px;
     height: 725px;
-   
+    margin-left: 90px;
     border-radius: 20px;
     box-shadow: 0px 4px 20px 0px #00000026;
   }
@@ -639,7 +639,7 @@
     margin-top: -140px;
     max-width: 375px;
     padding-left: 15px;
-    
+    margin-left: 60px;
     position: relative;
   }
   .whyus__container {
@@ -959,7 +959,7 @@
     margin-top: 60px;
     max-width: 375px;
     padding-left: 15px;
-   
+    margin-left: 90px;
   }
   .ourworks__container {
     max-width: 345px;
@@ -1085,7 +1085,7 @@
 
 @media screen and (max-width: 576px) {
   .clients {
-    
+    margin-left: -60px;
     margin-top: -60px;
   }
   .clients__container {
@@ -1322,7 +1322,7 @@ span {
 @media screen and (max-width: 576px) {
   .steps__container {
     max-width: 345px;
-   
+    margin-left: 0px;
     margin-top: -230px;
   }
 
@@ -1411,8 +1411,8 @@ span {
 
 .clientslogo__container{
   width: 1240px;
-  height: 576px;
   padding-left: 60px;
+  height: 576px;
   
 }
 .clientslogo__container h2 {
@@ -1822,7 +1822,7 @@ font-size: 14px;
 @media screen and (max-width: 576px) {
   .clientslogo__container{
     width: 345px;
-
+    margin-left: -60px;
     margin-top: -24px;
   }
   
